@@ -7,13 +7,17 @@ Authors: Ting Zhang1, Mengkai Yin1, Yuqi Wu 2, 3, *, Yi Du4, **
 
 1.College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China 
 
-2.College of Engineering, Shanghai Polytechnic University, Shanghai 201209, China
+2.National Key Laboratory of Deep Oil and Gas, China University of Petroleum (East China), Qingdao 266580, China
+  
+3. School of Geosciences, China University of Petroleum (East China), Qingdao 266580, China
+  
+4. School of Computer and Information Engineering, Institute for Artificial Intelligence, Shanghai Polytechnic University, Shanghai 201209, China
 
 (*corresponding author, E-mail: duyi0701@126.com. Tel.: 86 - 21- 50214252. Fax: 86 - 21- 50214252. )
 
 Ting Zhang Email: tingzh@shiep.edu.cn, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
 
-Mengkai Yin: ve.vvve@mail.shiep.edu.cn, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
+Mengkai Yin: yinmengkai@mail.shiep.edu.cn, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
 
 Yuqi Wu: 
 
