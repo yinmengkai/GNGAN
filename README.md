@@ -2,7 +2,7 @@
 
 Python implementation code for the paper titled,
 
-Title: GNGAN: a 3D stochastic reconstruction of digital cores based on gradient-normalization GAN
+Title: Modeling stochastic porous media using gradient normalization based generative adversarial network
 
 Authors: Ting Zhang1, Mengkai Yin1, Yuqi Wu 2, 3, *, Yi Du4, **
 
