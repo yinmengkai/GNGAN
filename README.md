@@ -4,7 +4,7 @@ Python implementation code for the paper titled,
 
 Title: Modeling stochastic porous media using gradient normalization based generative adversarial network
 
-Authors: Ting Zhang1, Xiangyu Chen, Mengkai Yin1, Yuqi Wu 2, 3, *, Yi Du4, **
+Authors: Ting Zhang1, Xiangyu Chen1, Mengkai Yin1, Yuqi Wu 2, 3, *, Yi Du4, **
 
 1.College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China 
 
